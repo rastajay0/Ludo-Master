@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Master",
+  "description": "A fully functional, responsive, and animated classic Ludo board game with local multiplayer and smart AI opponents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
